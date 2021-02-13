@@ -1,0 +1,7 @@
+#root{
+    background-image: url("../src/components/Assets/5810607031575463180.jpg");
+    background-size: cover;    
+    background-attachment: fixed;  
+    color:#ffffff;  
+    min-height:100vh
+}

@@ -1,0 +1,14 @@
+.searchInput{
+    width: 400px;
+    height: 35px;
+}
+.goButton{
+    width: 100px;
+    border: 2px solid rgb(32,32,32);
+    background-color: white;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px;
+}

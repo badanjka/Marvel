@@ -1,0 +1,7 @@
+#root{
+    background-image: url("../src/components/Assets/marvel-comics-daredevil-wallpaper-preview.jpg");
+    background-size: cover;    
+    background-attachment: fixed;  
+    color:#ffffff;  
+    min-height:100vh
+}

@@ -1,0 +1,16 @@
+.icon{
+    width: 20%;    
+}
+.del{
+    cursor: pointer;
+    align-self: center;
+}
+.teamWrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    width: 90%;
+}
+.heroName{
+    align-self: center;
+}

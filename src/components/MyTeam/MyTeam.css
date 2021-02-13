@@ -1,0 +1,17 @@
+.myTeam{
+    background-color: rgb(54 76 108 / 75%);    
+    width: 500px;
+    color: aliceblue;
+    margin-right: 40px;
+}
+.favorite{
+    display: flex; 
+    flex-direction: column;
+    padding-left: 9%;       
+    align-items: baseline;
+    
+}
+.team{
+    text-align: center;
+    font-size: 22px;
+}

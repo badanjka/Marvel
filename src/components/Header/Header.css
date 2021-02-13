@@ -1,0 +1,13 @@
+header {
+    background-color:rgb(32,32,32) ;     
+}
+ #title {
+    width: 143px;
+    background-color: rgb(236,29,36);    
+    margin-left: 70px;
+}
+h1 {  
+    color: white;
+    text-align: center;
+    margin-top:0px;
+}

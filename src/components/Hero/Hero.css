@@ -1,0 +1,44 @@
+.setFlex{
+    display: flex;  
+    flex-direction: column;
+    border-style: ridge;
+    background-color: rgb(54 76 108 / 75%);
+}
+.img{
+    width: 70%;
+    height: 300px;
+    align-self: center;
+    margin: 15px;
+}
+.oneHero{
+    list-style-type: none;
+    width: 44%;
+    margin-bottom: 20px;
+    display: flex;   
+}
+.info{
+    width: 100px;
+    text-decoration: none;
+    color: black;
+    padding: 5px 33px;
+}
+.infoButton{
+    width: 100px;
+}
+.add{
+    width: 100px;
+    cursor: pointer    
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;    
+    height: 28px;
+    margin:30px;    
+}
+.name{
+    margin: 15px;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 22px;
+}

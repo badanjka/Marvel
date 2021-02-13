@@ -1,0 +1,10 @@
+.mainPage{
+    background-image: url("../../components/Assets/5810607031575463180.jpg");
+    background-size: cover;    
+    background-attachment: fixed;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}

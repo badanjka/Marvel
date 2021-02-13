@@ -1,0 +1,28 @@
+.hero{
+    display: flex;  
+    flex-direction: column;
+    border-style: ridge;
+    background-color: rgb(54 76 108 / 75%);
+    width: 40%;
+    margin: 0px auto;
+}
+.heroPageName{
+    margin: 15px;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 22px;
+}
+.heroDescription{
+    color: aliceblue;    
+    font-size: 18px;
+    padding: 0 20px;
+    text-align: justify;
+    margin-bottom: 15px;
+}
+.heroImg{
+    height: 373px;
+    width: 70%;
+    align-self: center;
+    margin-bottom: 15px;
+}
